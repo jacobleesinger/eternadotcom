@@ -1,0 +1,56 @@
+<script lang="ts">
+	import { goto } from '$app/navigation';
+	import { cart } from '$lib/cart';
+
+	$: items = $cart.items;
+	$: total = $cart.items.reduce((acc, item) => {
+		return acc + item.count * item.item.cost;
+	}, 0);
+
+	const checkout = () => {
+		console.log('checkout');
+		cart.update((cart) => {
+			cart.items = [];
+			return cart;
+		});
+
+		goto('/');
+	};
+</script>
+
+<main class="mt-4">
+	<h2 class="text-2xl">Your Cart</h2>
+
+	<section class="overflow-x-auto">
+		<table class="table">
+			<thead>
+				<tr>
+					<th></th>
+					<th></th>
+					<th>Count</th>
+					<th>price</th>
+				</tr>
+			</thead>
+			<tbody>
+				{#each items as item}
+					<tr>
+						<td>
+							<img src={item.item.imageUrl} alt={item.item.name} height="50" width="50" />
+						</td>
+						<td>{item.item.name}</td>
+						<td>{item.count}</td>
+						<td>{item.item.cost}</td>
+					</tr>
+				{/each}
+			</tbody>
+			<tfoot>
+				<tr>
+					<td colspan="3">Total</td>
+					<td>{total}</td>
+				</tr>
+			</tfoot>
+		</table>
+
+		<button class="btn btn-primary" onclick={checkout}>Check Out</button>
+	</section>
+</main>
