@@ -1,5 +1,6 @@
 <script lang="ts">
 	import { cart } from '$lib/cart';
+	import Pokedollar from './pokedollar.svelte';
 	export let item: any;
 
 	let count = 1;
@@ -39,7 +40,7 @@
 		<h2 class="card-title">{item.name}</h2>
 
 		<p class="card-text">{item.description}</p>
-		<p class="card-text">Cost: {item.cost}</p>
+		<p class="card-text"><Pokedollar /> {item.cost}</p>
 
 		<section class="card-actions justify-center items-center">
 			<button class="btn btn-sm btn-ghost" onclick={decrement}>-</button>

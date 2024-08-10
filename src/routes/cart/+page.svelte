@@ -1,6 +1,7 @@
 <script lang="ts">
 	import { goto } from '$app/navigation';
 	import { cart } from '$lib/cart';
+	import Pokedollar from '$lib/components/pokedollar.svelte';
 
 	$: items = $cart.items;
 	$: total = $cart.items.reduce((acc, item) => {
@@ -39,14 +40,14 @@
 						</td>
 						<td>{item.item.name}</td>
 						<td>{item.count}</td>
-						<td>{item.item.cost}</td>
+						<td><Pokedollar /> {item.item.cost}</td>
 					</tr>
 				{/each}
 			</tbody>
 			<tfoot>
 				<tr>
 					<td colspan="3">Total</td>
-					<td>{total}</td>
+					<td><Pokedollar /> {total}</td>
 				</tr>
 			</tfoot>
 		</table>
