@@ -1,0 +1,1954 @@
+[
+  {
+    "id": 2,
+    "name": "Ultra Ball",
+    "description": "A very high-grade BALL that offers\na higher POKéMON catch rate than\na GREAT BALL.",
+    "cost": 800,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ultra-ball.png",
+    "category": "standard-balls"
+  },
+  {
+    "id": 3,
+    "name": "Great Ball",
+    "description": "A good, quality BALL that offers\na higher POKéMON catch rate than\na standard POKé BALL.",
+    "cost": 600,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/great-ball.png",
+    "category": "standard-balls"
+  },
+  {
+    "id": 4,
+    "name": "Poké Ball",
+    "description": "A BALL thrown to catch a wild\nPOKéMON. It is designed in a\ncapsule style.",
+    "cost": 200,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png",
+    "category": "standard-balls"
+  },
+  {
+    "id": 6,
+    "name": "Net Ball",
+    "description": "A somewhat different BALL that\nworks especially well on WATER- and\nBUG-type POKéMON.",
+    "cost": 1000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/net-ball.png",
+    "category": "special-balls"
+  },
+  {
+    "id": 7,
+    "name": "Dive Ball",
+    "description": "A somewhat different BALL that\nworks especially well on POKéMON\ndeep in the sea.",
+    "cost": 1000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dive-ball.png",
+    "category": "special-balls"
+  },
+  {
+    "id": 8,
+    "name": "Nest Ball",
+    "description": "A somewhat different BALL that\nworks especially well on weaker\nPOKéMON.",
+    "cost": 1000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/nest-ball.png",
+    "category": "special-balls"
+  },
+  {
+    "id": 9,
+    "name": "Repeat Ball",
+    "description": "A somewhat different BALL that\nworks especially well on POKéMON\ncaught before.",
+    "cost": 1000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/repeat-ball.png",
+    "category": "special-balls"
+  },
+  {
+    "id": 10,
+    "name": "Timer Ball",
+    "description": "A somewhat different BALL that\nbecomes progressively better the\nmore turns there are in a battle.",
+    "cost": 1000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/timer-ball.png",
+    "category": "special-balls"
+  },
+  {
+    "id": 11,
+    "name": "Luxury Ball",
+    "description": "A comfortable BALL that makes a\ncaptured wild POKéMON quickly grow\nfriendly.",
+    "cost": 3000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/luxury-ball.png",
+    "category": "special-balls"
+  },
+  {
+    "id": 12,
+    "name": "Premier Ball",
+    "description": "A rare BALL that has been\nspecially made to commemorate an\nevent of some sort.",
+    "cost": 20,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/premier-ball.png",
+    "category": "special-balls"
+  },
+  {
+    "id": 17,
+    "name": "Potion",
+    "description": "A spray-type wound medicine.\nIt restores the HP of one POKéMON\nby 20 points.",
+    "cost": 200,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/potion.png",
+    "category": "healing"
+  },
+  {
+    "id": 18,
+    "name": "Antidote",
+    "description": "A spray-type medicine.\nIt heals one POKéMON from a\npoisoning.",
+    "cost": 200,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/antidote.png",
+    "category": "status-cures"
+  },
+  {
+    "id": 19,
+    "name": "Burn Heal",
+    "description": "A spray-type medicine.\nIt heals one POKéMON of a burn.",
+    "cost": 200,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/burn-heal.png",
+    "category": "status-cures"
+  },
+  {
+    "id": 20,
+    "name": "Ice Heal",
+    "description": "A spray-type medicine.\nIt defrosts a frozen POKéMON.",
+    "cost": 200,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ice-heal.png",
+    "category": "status-cures"
+  },
+  {
+    "id": 21,
+    "name": "Awakening",
+    "description": "A spray-type medicine.\nIt awakens a sleeping POKéMON.",
+    "cost": 200,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/awakening.png",
+    "category": "status-cures"
+  },
+  {
+    "id": 22,
+    "name": "Paralyze Heal",
+    "description": "A spray-type medicine.\nIt heals one POKéMON from\nparalysis.",
+    "cost": 200,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/paralyze-heal.png",
+    "category": "status-cures"
+  },
+  {
+    "id": 23,
+    "name": "Full Restore",
+    "description": "A medicine that fully restores the\nHP and heals any status problems\nof one POKéMON.",
+    "cost": 3000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/full-restore.png",
+    "category": "healing"
+  },
+  {
+    "id": 24,
+    "name": "Max Potion",
+    "description": "A spray-type wound medicine.\nIt fully restores the HP of one\nPOKéMON.",
+    "cost": 2500,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/max-potion.png",
+    "category": "healing"
+  },
+  {
+    "id": 25,
+    "name": "Hyper Potion",
+    "description": "A spray-type wound medicine.\nIt restores the HP of one POKéMON\nby 200 points.",
+    "cost": 1500,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hyper-potion.png",
+    "category": "healing"
+  },
+  {
+    "id": 26,
+    "name": "Super Potion",
+    "description": "A spray-type wound medicine.\nIt restores the HP of one POKéMON\nby 50 points.",
+    "cost": 700,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/super-potion.png",
+    "category": "healing"
+  },
+  {
+    "id": 27,
+    "name": "Full Heal",
+    "description": "A spray-type medicine.\nIt heals all the status problems of\none POKéMON.",
+    "cost": 400,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/full-heal.png",
+    "category": "status-cures"
+  },
+  {
+    "id": 28,
+    "name": "Revive",
+    "description": "A medicine that revives a fainted\nPOKéMON, restoring HP by half the\nmaximum amount.",
+    "cost": 2000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/revive.png",
+    "category": "revival"
+  },
+  {
+    "id": 29,
+    "name": "Max Revive",
+    "description": "A medicine that revives a fainted\nPOKéMON, restoring HP fully.",
+    "cost": 4000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/max-revive.png",
+    "category": "revival"
+  },
+  {
+    "id": 30,
+    "name": "Fresh Water",
+    "description": "Water with a high mineral content.\nIt restores the HP of one POKéMON\nby 50 points.",
+    "cost": 200,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/fresh-water.png",
+    "category": "healing"
+  },
+  {
+    "id": 31,
+    "name": "Soda Pop",
+    "description": "A fizzy soda drink.\nIt restores the HP of one POKéMON\nby 60 points.",
+    "cost": 300,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/soda-pop.png",
+    "category": "healing"
+  },
+  {
+    "id": 32,
+    "name": "Lemonade",
+    "description": "A very sweet drink.\nIt restores the HP of one POKéMON\nby 80 points.",
+    "cost": 400,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lemonade.png",
+    "category": "healing"
+  },
+  {
+    "id": 33,
+    "name": "Moomoo Milk",
+    "description": "Highly nutritious milk.\nIt restores the HP of one POKéMON\nby 100 points.",
+    "cost": 600,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/moomoo-milk.png",
+    "category": "healing"
+  },
+  {
+    "id": 34,
+    "name": "Energy Powder",
+    "description": "A very bitter medicine powder.\nIt restores the HP of one POKéMON\nby 50 points.",
+    "cost": 500,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/energy-powder.png",
+    "category": "healing"
+  },
+  {
+    "id": 35,
+    "name": "Energy Root",
+    "description": "A very bitter root.\nIt restores the HP of one POKéMON\nby 200 points.",
+    "cost": 1200,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/energy-root.png",
+    "category": "healing"
+  },
+  {
+    "id": 36,
+    "name": "Heal Powder",
+    "description": "A very bitter medicine powder.\nIt heals all the status problems of\none POKéMON.",
+    "cost": 300,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/heal-powder.png",
+    "category": "status-cures"
+  },
+  {
+    "id": 37,
+    "name": "Revival Herb",
+    "description": "A very bitter medicinal herb.\nIt revives a fainted POKéMON,\nrestoring HP fully.",
+    "cost": 2800,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/revival-herb.png",
+    "category": "revival"
+  },
+  {
+    "id": 38,
+    "name": "Ether",
+    "description": "Restores a selected move’s PP by\n10 points for one POKéMON.",
+    "cost": 1200,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ether.png",
+    "category": "pp-recovery"
+  },
+  {
+    "id": 39,
+    "name": "Max Ether",
+    "description": "Fully restores a selected move’s PP\nfor one POKéMON.",
+    "cost": 2000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/max-ether.png",
+    "category": "pp-recovery"
+  },
+  {
+    "id": 40,
+    "name": "Elixir",
+    "description": "Restores the PP of all moves for\none POKéMON by 10 points each.",
+    "cost": 3000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/elixir.png",
+    "category": "pp-recovery"
+  },
+  {
+    "id": 41,
+    "name": "Max Elixir",
+    "description": "Fully restores the PP of all moves\nfor one POKéMON.",
+    "cost": 4500,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/max-elixir.png",
+    "category": "pp-recovery"
+  },
+  {
+    "id": 42,
+    "name": "Lava Cookie",
+    "description": "LAVARIDGE TOWN’s local specialty.\nIt heals all the status problems of\none POKéMON.",
+    "cost": 350,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lava-cookie.png",
+    "category": "status-cures"
+  },
+  {
+    "id": 43,
+    "name": "Berry Juice",
+    "description": "A 100% pure juice.\nIt restores the HP of one POKéMON\nby 20 points.",
+    "cost": 200,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/berry-juice.png",
+    "category": "healing"
+  },
+  {
+    "id": 44,
+    "name": "Sacred Ash",
+    "description": "Revives all fainted POKéMON,\nrestoring HP fully.",
+    "cost": 50000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/sacred-ash.png",
+    "category": "revival"
+  },
+  {
+    "id": 45,
+    "name": "HP Up",
+    "description": "A nutritious drink for POKéMON.\nIt raises the base HP of one\nPOKéMON.",
+    "cost": 10000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hp-up.png",
+    "category": "vitamins"
+  },
+  {
+    "id": 46,
+    "name": "Protein",
+    "description": "A nutritious drink for POKéMON.\nIt raises the base ATTACK stat of\none POKéMON.",
+    "cost": 10000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/protein.png",
+    "category": "vitamins"
+  },
+  {
+    "id": 47,
+    "name": "Iron",
+    "description": "A nutritious drink for POKéMON.\nIt raises the base DEFENSE stat of\none POKéMON.",
+    "cost": 10000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/iron.png",
+    "category": "vitamins"
+  },
+  {
+    "id": 48,
+    "name": "Carbos",
+    "description": "A nutritious drink for POKéMON.\nIt raises the base SPEED stat of\none POKéMON.",
+    "cost": 10000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/carbos.png",
+    "category": "vitamins"
+  },
+  {
+    "id": 49,
+    "name": "Calcium",
+    "description": "A nutritious drink for POKéMON.\nIt raises the base SP. ATK stat\nof one POKéMON.",
+    "cost": 10000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/calcium.png",
+    "category": "vitamins"
+  },
+  {
+    "id": 50,
+    "name": "Rare Candy",
+    "description": "A candy that is packed with energy.\nIt raises the level of a POKéMON\nby one.",
+    "cost": 10000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/rare-candy.png",
+    "category": "vitamins"
+  },
+  {
+    "id": 51,
+    "name": "PP Up",
+    "description": "Slightly raises the maximum PP of\na selected move for one POKéMON.",
+    "cost": 10000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pp-up.png",
+    "category": "vitamins"
+  },
+  {
+    "id": 52,
+    "name": "Zinc",
+    "description": "A nutritious drink for POKéMON.\nIt raises the base SP. DEF stat\nof one POKéMON.",
+    "cost": 10000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/zinc.png",
+    "category": "vitamins"
+  },
+  {
+    "id": 53,
+    "name": "PP Max",
+    "description": "Raises the PP of a selected move\nto its maximum level for one\nPOKéMON.",
+    "cost": 10000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pp-max.png",
+    "category": "vitamins"
+  },
+  {
+    "id": 55,
+    "name": "Guard Spec.",
+    "description": "An item that prevents stat reduction\namong party POKéMON for five turns\nafter use.",
+    "cost": 1500,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/guard-spec.png",
+    "category": "stat-boosts"
+  },
+  {
+    "id": 56,
+    "name": "Dire Hit",
+    "description": "Raises the critical-hit ratio of\nPOKéMON in battle. Wears off if the\nPOKéMON is withdrawn.",
+    "cost": 1000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dire-hit.png",
+    "category": "stat-boosts"
+  },
+  {
+    "id": 57,
+    "name": "X Attack",
+    "description": "Raises the ATTACK stat of POKéMON\nin battle. Wears off if the POKéMON\nis withdrawn.",
+    "cost": 1000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-attack.png",
+    "category": "stat-boosts"
+  },
+  {
+    "id": 58,
+    "name": "X Defense",
+    "description": "Raises the DEFENSE stat of POKéMON\nin battle. Wears off if the POKéMON\nis withdrawn.",
+    "cost": 2000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-defense.png",
+    "category": "stat-boosts"
+  },
+  {
+    "id": 59,
+    "name": "X Speed",
+    "description": "Raises the SPEED stat of POKéMON\nin battle. Wears off if the POKéMON\nis withdrawn.",
+    "cost": 1000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-speed.png",
+    "category": "stat-boosts"
+  },
+  {
+    "id": 60,
+    "name": "X Accuracy",
+    "description": "Raises the accuracy stat of\nPOKéMON in battle. Wears off if the\nPOKéMON is withdrawn.",
+    "cost": 1000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-accuracy.png",
+    "category": "stat-boosts"
+  },
+  {
+    "id": 61,
+    "name": "X Sp. Atk",
+    "description": "Raises the SP. ATK stat of\nPOKéMON in battle. Wears off if the\nPOKéMON is withdrawn.",
+    "cost": 1000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-sp-atk.png",
+    "category": "stat-boosts"
+  },
+  {
+    "id": 63,
+    "name": "Poké Doll",
+    "description": "An attractive doll.\nUse it to flee from any battle with\na wild POKéMON.",
+    "cost": 300,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-doll.png",
+    "category": "spelunking"
+  },
+  {
+    "id": 64,
+    "name": "Fluffy Tail",
+    "description": "An attractive item.\nUse it to flee from any battle with\na wild POKéMON.",
+    "cost": 100,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/fluffy-tail.png",
+    "category": "spelunking"
+  },
+  {
+    "id": 65,
+    "name": "Blue Flute",
+    "description": "A blue glass flute that awakens\na sleeping POKéMON.",
+    "cost": 20,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/blue-flute.png",
+    "category": "flutes"
+  },
+  {
+    "id": 66,
+    "name": "Yellow Flute",
+    "description": "A yellow glass flute that snaps one\nPOKéMON out of confusion.",
+    "cost": 20,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/yellow-flute.png",
+    "category": "flutes"
+  },
+  {
+    "id": 67,
+    "name": "Red Flute",
+    "description": "A red glass flute that snaps one\nPOKéMON out of infatuation.",
+    "cost": 20,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/red-flute.png",
+    "category": "flutes"
+  },
+  {
+    "id": 68,
+    "name": "Black Flute",
+    "description": "A black glass flute.\nWhen blown, it makes wild POKéMON\nless likely to appear.",
+    "cost": 20,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/black-flute.png",
+    "category": "spelunking"
+  },
+  {
+    "id": 69,
+    "name": "White Flute",
+    "description": "A white glass flute.\nWhen blown, it makes wild POKéMON\nmore likely to appear.",
+    "cost": 20,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/white-flute.png",
+    "category": "spelunking"
+  },
+  {
+    "id": 70,
+    "name": "Shoal Salt",
+    "description": "Pure salt obtained from deep inside\nthe SHOAL CAVE. It is extremely\nsalty.",
+    "cost": 20,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/shoal-salt.png",
+    "category": "collectibles"
+  },
+  {
+    "id": 71,
+    "name": "Shoal Shell",
+    "description": "A pretty seashell found deep inside\nthe SHOAL CAVE. It is striped in\nblue and white.",
+    "cost": 20,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/shoal-shell.png",
+    "category": "collectibles"
+  },
+  {
+    "id": 72,
+    "name": "Red Shard",
+    "description": "A small red shard.\nIt appears to be from some sort of\na tool made long ago.",
+    "cost": 1000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/red-shard.png",
+    "category": "collectibles"
+  },
+  {
+    "id": 73,
+    "name": "Blue Shard",
+    "description": "A small blue shard.\nIt appears to be from some sort of\na tool made long ago.",
+    "cost": 1000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/blue-shard.png",
+    "category": "collectibles"
+  },
+  {
+    "id": 74,
+    "name": "Yellow Shard",
+    "description": "A small yellow shard.\nIt appears to be from some sort of\na tool made long ago.",
+    "cost": 1000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/yellow-shard.png",
+    "category": "collectibles"
+  },
+  {
+    "id": 75,
+    "name": "Green Shard",
+    "description": "A small green shard.\nIt appears to be from some sort of\na tool made long ago.",
+    "cost": 1000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/green-shard.png",
+    "category": "collectibles"
+  },
+  {
+    "id": 76,
+    "name": "Super Repel",
+    "description": "Prevents weak wild POKéMON from\nappearing for 200 steps.",
+    "cost": 700,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/super-repel.png",
+    "category": "spelunking"
+  },
+  {
+    "id": 77,
+    "name": "Max Repel",
+    "description": "Prevents weak wild POKéMON from\nappearing for 250 steps.",
+    "cost": 900,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/max-repel.png",
+    "category": "spelunking"
+  },
+  {
+    "id": 78,
+    "name": "Escape Rope",
+    "description": "A long, durable rope.\nUse it to escape instantly from a\ncave or a dungeon.",
+    "cost": 300,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/escape-rope.png",
+    "category": "spelunking"
+  },
+  {
+    "id": 79,
+    "name": "Repel",
+    "description": "Prevents weak wild POKéMON from\nappearing for 100 steps.",
+    "cost": 400,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/repel.png",
+    "category": "spelunking"
+  },
+  {
+    "id": 80,
+    "name": "Sun Stone",
+    "description": "A peculiar stone that makes certain\nspecies of POKéMON evolve.\nIt is as red as the sun.",
+    "cost": 3000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/sun-stone.png",
+    "category": "evolution"
+  },
+  {
+    "id": 81,
+    "name": "Moon Stone",
+    "description": "A peculiar stone that makes certain\nspecies of POKéMON evolve.\nIt is as black as the night sky.",
+    "cost": 3000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/moon-stone.png",
+    "category": "evolution"
+  },
+  {
+    "id": 82,
+    "name": "Fire Stone",
+    "description": "A peculiar stone that makes certain\nspecies of POKéMON evolve.\nIt is colored orange.",
+    "cost": 3000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/fire-stone.png",
+    "category": "evolution"
+  },
+  {
+    "id": 83,
+    "name": "Thunder Stone",
+    "description": "A peculiar stone that makes certain\nspecies of POKéMON evolve.\nIt has a thunderbolt pattern.",
+    "cost": 3000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/thunder-stone.png",
+    "category": "evolution"
+  },
+  {
+    "id": 84,
+    "name": "Water Stone",
+    "description": "A peculiar stone that makes certain\nspecies of POKéMON evolve.\nIt is a clear light blue.",
+    "cost": 3000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/water-stone.png",
+    "category": "evolution"
+  },
+  {
+    "id": 85,
+    "name": "Leaf Stone",
+    "description": "A peculiar stone that makes certain\nspecies of POKéMON evolve.\nIt has a leaf pattern.",
+    "cost": 3000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/leaf-stone.png",
+    "category": "evolution"
+  },
+  {
+    "id": 86,
+    "name": "Tiny Mushroom",
+    "description": "A small and rare mushroom.\nIt is quite popular among certain\npeople.",
+    "cost": 500,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tiny-mushroom.png",
+    "category": "loot"
+  },
+  {
+    "id": 87,
+    "name": "Big Mushroom",
+    "description": "A large and rare mushroom.\nIt is very popular among certain\npeople.",
+    "cost": 5000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/big-mushroom.png",
+    "category": "loot"
+  },
+  {
+    "id": 88,
+    "name": "Pearl",
+    "description": "A relatively small pearl that\nsparkles in a pretty silver color.\nIt can be sold cheaply.",
+    "cost": 2000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pearl.png",
+    "category": "loot"
+  },
+  {
+    "id": 89,
+    "name": "Big Pearl",
+    "description": "A quite-large pearl that sparkles\nin a pretty silver color.\nIt can be sold at a high price.",
+    "cost": 8000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/big-pearl.png",
+    "category": "loot"
+  },
+  {
+    "id": 90,
+    "name": "Stardust",
+    "description": "A pretty red sand with a loose,\nsilky feel.\nIt can be sold at a high price.",
+    "cost": 3000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/stardust.png",
+    "category": "loot"
+  },
+  {
+    "id": 91,
+    "name": "Star Piece",
+    "description": "A shard of a pretty gem that\nsparkles in a red color.\nIt can be sold at a high price.",
+    "cost": 12000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/star-piece.png",
+    "category": "loot"
+  },
+  {
+    "id": 92,
+    "name": "Nugget",
+    "description": "A nugget of pure gold that gives\noff a lustrous gleam.\nIt can be sold at a high price.",
+    "cost": 10000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/nugget.png",
+    "category": "loot"
+  },
+  {
+    "id": 93,
+    "name": "Heart Scale",
+    "description": "A pretty, heart-shaped scale that\nis extremely rare. It glows faintly\nin the colors of a rainbow.",
+    "cost": 100,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/heart-scale.png",
+    "category": "collectibles"
+  },
+  {
+    "id": 99,
+    "name": "Root Fossil",
+    "description": "A fossil of an ancient, seafloor-\ndwelling POKéMON. It appears to be\npart of a plant root.",
+    "cost": 7000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/root-fossil.png",
+    "category": "dex-completion"
+  },
+  {
+    "id": 100,
+    "name": "Claw Fossil",
+    "description": "A fossil of an ancient, seafloor-\ndwelling POKéMON. It appears to be\npart of a claw.",
+    "cost": 7000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/claw-fossil.png",
+    "category": "dex-completion"
+  },
+  {
+    "id": 101,
+    "name": "Helix Fossil",
+    "description": "A fossil of an ancient, seafloor-\ndwelling POKéMON. It appears to be\npart of a seashell.",
+    "cost": 7000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/helix-fossil.png",
+    "category": "dex-completion"
+  },
+  {
+    "id": 102,
+    "name": "Dome Fossil",
+    "description": "A fossil of an ancient, seafloor-\ndwelling POKéMON. It appears to be\npart of a shell.",
+    "cost": 7000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dome-fossil.png",
+    "category": "dex-completion"
+  },
+  {
+    "id": 103,
+    "name": "Old Amber",
+    "description": "A piece of amber that contains\nthe genes of an ancient POKéMON.\nIt is clear with a reddish tint.",
+    "cost": 10000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/old-amber.png",
+    "category": "dex-completion"
+  },
+  {
+    "id": 126,
+    "name": "Cheri Berry",
+    "description": "When held by a POKéMON, it will be\nused in battle to heal paralysis.",
+    "cost": 80,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/cheri-berry.png",
+    "category": "medicine"
+  },
+  {
+    "id": 127,
+    "name": "Chesto Berry",
+    "description": "When held by a POKéMON, it will be\nused in battle to wake up.",
+    "cost": 80,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/chesto-berry.png",
+    "category": "medicine"
+  },
+  {
+    "id": 128,
+    "name": "Pecha Berry",
+    "description": "When held by a POKéMON, it will be\nused in battle to cure poison.",
+    "cost": 80,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pecha-berry.png",
+    "category": "medicine"
+  },
+  {
+    "id": 129,
+    "name": "Rawst Berry",
+    "description": "When held by a POKéMON, it will be\nused in battle to heal a burn.",
+    "cost": 80,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/rawst-berry.png",
+    "category": "medicine"
+  },
+  {
+    "id": 130,
+    "name": "Aspear Berry",
+    "description": "When held by a POKéMON, it will be\nused in battle for defrosting.",
+    "cost": 80,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/aspear-berry.png",
+    "category": "medicine"
+  },
+  {
+    "id": 131,
+    "name": "Leppa Berry",
+    "description": "When held by a POKéMON, it will be\nused in battle to restore 10 PP.",
+    "cost": 80,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/leppa-berry.png",
+    "category": "medicine"
+  },
+  {
+    "id": 132,
+    "name": "Oran Berry",
+    "description": "When held by a POKéMON, it will be\nused in battle to restore 10 HP.",
+    "cost": 80,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/oran-berry.png",
+    "category": "medicine"
+  },
+  {
+    "id": 133,
+    "name": "Persim Berry",
+    "description": "When held by a POKéMON, it will be\nused in battle to lift confusion.",
+    "cost": 80,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/persim-berry.png",
+    "category": "medicine"
+  },
+  {
+    "id": 134,
+    "name": "Lum Berry",
+    "description": "When held by a POKéMON, it will be\nused in battle to heal any problem.",
+    "cost": 80,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lum-berry.png",
+    "category": "medicine"
+  },
+  {
+    "id": 135,
+    "name": "Sitrus Berry",
+    "description": "When held by a POKéMON, it will be\nused in battle to restore 30 HP.",
+    "cost": 80,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/sitrus-berry.png",
+    "category": "medicine"
+  },
+  {
+    "id": 136,
+    "name": "Figy Berry",
+    "description": "A hold item that restores HP but\nmay cause confusion when used.",
+    "cost": 80,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/figy-berry.png",
+    "category": "picky-healing"
+  },
+  {
+    "id": 137,
+    "name": "Wiki Berry",
+    "description": "A hold item that restores HP but\nmay cause confusion when used.",
+    "cost": 80,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/wiki-berry.png",
+    "category": "picky-healing"
+  },
+  {
+    "id": 138,
+    "name": "Mago Berry",
+    "description": "A hold item that restores HP but\nmay cause confusion when used.",
+    "cost": 80,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mago-berry.png",
+    "category": "picky-healing"
+  },
+  {
+    "id": 139,
+    "name": "Aguav Berry",
+    "description": "A hold item that restores HP but\nmay cause confusion when used.",
+    "cost": 80,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/aguav-berry.png",
+    "category": "picky-healing"
+  },
+  {
+    "id": 140,
+    "name": "Iapapa Berry",
+    "description": "A hold item that restores HP but\nmay cause confusion when used.",
+    "cost": 80,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/iapapa-berry.png",
+    "category": "picky-healing"
+  },
+  {
+    "id": 141,
+    "name": "Razz Berry",
+    "description": "Can be ground up into a powder as\nan ingredient for medicine.",
+    "cost": 200,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/razz-berry.png",
+    "category": "baking-only"
+  },
+  {
+    "id": 142,
+    "name": "Bluk Berry",
+    "description": "Can be ground up into a powder as\nan ingredient for medicine.",
+    "cost": 20,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/bluk-berry.png",
+    "category": "baking-only"
+  },
+  {
+    "id": 143,
+    "name": "Nanab Berry",
+    "description": "Can be ground up into a powder as\nan ingredient for medicine.",
+    "cost": 200,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/nanab-berry.png",
+    "category": "baking-only"
+  },
+  {
+    "id": 144,
+    "name": "Wepear Berry",
+    "description": "Can be ground up into a powder as\nan ingredient for medicine.",
+    "cost": 20,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/wepear-berry.png",
+    "category": "baking-only"
+  },
+  {
+    "id": 145,
+    "name": "Pinap Berry",
+    "description": "Can be ground up into a powder as\nan ingredient for medicine.",
+    "cost": 200,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pinap-berry.png",
+    "category": "baking-only"
+  },
+  {
+    "id": 146,
+    "name": "Pomeg Berry",
+    "description": "Can be ground up into a powder as\nan ingredient for medicine.",
+    "cost": 80,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pomeg-berry.png",
+    "category": "effort-drop"
+  },
+  {
+    "id": 147,
+    "name": "Kelpsy Berry",
+    "description": "Can be ground up into a powder as\nan ingredient for medicine.",
+    "cost": 80,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/kelpsy-berry.png",
+    "category": "effort-drop"
+  },
+  {
+    "id": 148,
+    "name": "Qualot Berry",
+    "description": "Can be ground up into a powder as\nan ingredient for medicine.",
+    "cost": 80,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/qualot-berry.png",
+    "category": "effort-drop"
+  },
+  {
+    "id": 149,
+    "name": "Hondew Berry",
+    "description": "Can be ground up into a powder as\nan ingredient for medicine.",
+    "cost": 80,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hondew-berry.png",
+    "category": "effort-drop"
+  },
+  {
+    "id": 150,
+    "name": "Grepa Berry",
+    "description": "Can be ground up into a powder as\nan ingredient for medicine.",
+    "cost": 80,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/grepa-berry.png",
+    "category": "effort-drop"
+  },
+  {
+    "id": 151,
+    "name": "Tamato Berry",
+    "description": "Can be ground up into a powder as\nan ingredient for medicine.",
+    "cost": 80,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tamato-berry.png",
+    "category": "effort-drop"
+  },
+  {
+    "id": 152,
+    "name": "Cornn Berry",
+    "description": "Can be ground up into a powder as\nan ingredient for medicine.",
+    "cost": 20,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/cornn-berry.png",
+    "category": "baking-only"
+  },
+  {
+    "id": 153,
+    "name": "Magost Berry",
+    "description": "Can be ground up into a powder as\nan ingredient for medicine.",
+    "cost": 20,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/magost-berry.png",
+    "category": "baking-only"
+  },
+  {
+    "id": 154,
+    "name": "Rabuta Berry",
+    "description": "Can be ground up into a powder as\nan ingredient for medicine.",
+    "cost": 20,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/rabuta-berry.png",
+    "category": "baking-only"
+  },
+  {
+    "id": 155,
+    "name": "Nomel Berry",
+    "description": "Can be ground up into a powder as\nan ingredient for medicine.",
+    "cost": 20,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/nomel-berry.png",
+    "category": "baking-only"
+  },
+  {
+    "id": 156,
+    "name": "Spelon Berry",
+    "description": "Can be ground up into a powder as\nan ingredient for medicine.",
+    "cost": 20,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/spelon-berry.png",
+    "category": "baking-only"
+  },
+  {
+    "id": 157,
+    "name": "Pamtre Berry",
+    "description": "Can be ground up into a powder as\nan ingredient for medicine.",
+    "cost": 20,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pamtre-berry.png",
+    "category": "baking-only"
+  },
+  {
+    "id": 158,
+    "name": "Watmel Berry",
+    "description": "Can be ground up into a powder as\nan ingredient for medicine.",
+    "cost": 20,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/watmel-berry.png",
+    "category": "baking-only"
+  },
+  {
+    "id": 159,
+    "name": "Durin Berry",
+    "description": "Can be ground up into a powder as\nan ingredient for medicine.",
+    "cost": 20,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/durin-berry.png",
+    "category": "baking-only"
+  },
+  {
+    "id": 160,
+    "name": "Belue Berry",
+    "description": "Can be ground up into a powder as\nan ingredient for medicine.",
+    "cost": 20,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/belue-berry.png",
+    "category": "baking-only"
+  },
+  {
+    "id": 178,
+    "name": "Liechi Berry",
+    "description": "When held by a POKéMON, it raises\nthe ATTACK stat in a pinch.",
+    "cost": 80,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/liechi-berry.png",
+    "category": "in-a-pinch"
+  },
+  {
+    "id": 179,
+    "name": "Ganlon Berry",
+    "description": "When held by a POKéMON, it raises\nthe DEFENSE stat in a pinch.",
+    "cost": 80,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ganlon-berry.png",
+    "category": "in-a-pinch"
+  },
+  {
+    "id": 180,
+    "name": "Salac Berry",
+    "description": "When held by a POKéMON, it raises\nthe SPEED stat in a pinch.",
+    "cost": 80,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/salac-berry.png",
+    "category": "in-a-pinch"
+  },
+  {
+    "id": 181,
+    "name": "Petaya Berry",
+    "description": "When held by a POKéMON, it raises\nthe SP. ATK stat in a pinch.",
+    "cost": 80,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/petaya-berry.png",
+    "category": "in-a-pinch"
+  },
+  {
+    "id": 182,
+    "name": "Apicot Berry",
+    "description": "When held by a POKéMON, it raises\nthe SP. DEF stat in a pinch.",
+    "cost": 80,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/apicot-berry.png",
+    "category": "in-a-pinch"
+  },
+  {
+    "id": 183,
+    "name": "Lansat Berry",
+    "description": "When held by a POKéMON, it raises\nthe critical-hit ratio in a pinch.",
+    "cost": 80,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lansat-berry.png",
+    "category": "in-a-pinch"
+  },
+  {
+    "id": 184,
+    "name": "Starf Berry",
+    "description": "When held by a POKéMON, it sharply\nraises one stat in a pinch.",
+    "cost": 80,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/starf-berry.png",
+    "category": "in-a-pinch"
+  },
+  {
+    "id": 185,
+    "name": "Enigma Berry",
+    "description": "Can be ground up into a powder as\nan ingredient for medicine.",
+    "cost": 80,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/enigma-berry.png",
+    "category": "other"
+  },
+  {
+    "id": 190,
+    "name": "Bright Powder",
+    "description": "An item to be held by a POKéMON.\nIt casts a tricky glare that lowers\nthe opponent’s accuracy.",
+    "cost": 4000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/bright-powder.png",
+    "category": "held-items"
+  },
+  {
+    "id": 191,
+    "name": "White Herb",
+    "description": "An item to be held by a POKéMON.\nIt restores any lowered stat in\nbattle. It can be used only once.",
+    "cost": 4000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/white-herb.png",
+    "category": "held-items"
+  },
+  {
+    "id": 192,
+    "name": "Macho Brace",
+    "description": "An item to be held by a POKéMON.\nIt promotes strong growth but\nlowers SPEED while it is held.",
+    "cost": 3000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/macho-brace.png",
+    "category": "effort-training"
+  },
+  {
+    "id": 194,
+    "name": "Quick Claw",
+    "description": "An item to be held by a POKéMON.\nA light and sharp claw. The holder\nmay be able to strike first.",
+    "cost": 4000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/quick-claw.png",
+    "category": "held-items"
+  },
+  {
+    "id": 195,
+    "name": "Soothe Bell",
+    "description": "An item to be held by a POKéMON.\nA bell with a comforting chime that\nmakes the holder calm and friendly.",
+    "cost": 4000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/soothe-bell.png",
+    "category": "training"
+  },
+  {
+    "id": 196,
+    "name": "Mental Herb",
+    "description": "An item to be held by a POKéMON.\nIt snaps the holder out of\ninfatuation. It can be used once.",
+    "cost": 4000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mental-herb.png",
+    "category": "held-items"
+  },
+  {
+    "id": 197,
+    "name": "Choice Band",
+    "description": "An item to be held by a POKéMON.\nIt powers up one move, which\nbecomes the only usable one.",
+    "cost": 4000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/choice-band.png",
+    "category": "choice"
+  },
+  {
+    "id": 198,
+    "name": "King’s Rock",
+    "description": "An item to be held by a POKéMON.\nIt may cause the foe to flinch\nupon taking damage.",
+    "cost": 5000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/kings-rock.png",
+    "category": "held-items"
+  },
+  {
+    "id": 199,
+    "name": "Silver Powder",
+    "description": "An item to be held by a POKéMON.\nA shiny silver powder that boosts\nthe power of BUG-type moves.",
+    "cost": 1000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/silver-powder.png",
+    "category": "type-enhancement"
+  },
+  {
+    "id": 200,
+    "name": "Amulet Coin",
+    "description": "An item to be held by a POKéMON.\nIt doubles the battle money if the\nholding POKéMON takes part.",
+    "cost": 10000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/amulet-coin.png",
+    "category": "training"
+  },
+  {
+    "id": 201,
+    "name": "Cleanse Tag",
+    "description": "An item to be held by a POKéMON.\nIt repels wild POKéMON if the\nholder is first in the party.",
+    "cost": 5000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/cleanse-tag.png",
+    "category": "training"
+  },
+  {
+    "id": 203,
+    "name": "Deep Sea Tooth",
+    "description": "An item to be held by a POKéMON.\nA fang that gleams a sharp silver.\nIt raises the SP. ATK stat.",
+    "cost": 2000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/deep-sea-tooth.png",
+    "category": "species-specific"
+  },
+  {
+    "id": 204,
+    "name": "Deep Sea Scale",
+    "description": "An item to be held by a POKéMON.\nA scale that shines a faint pink.\nIt raises the SP. DEF stat.",
+    "cost": 2000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/deep-sea-scale.png",
+    "category": "species-specific"
+  },
+  {
+    "id": 205,
+    "name": "Smoke Ball",
+    "description": "An item to be held by a POKéMON.\nThe holding POKéMON can flee from\nany wild POKéMON for sure.",
+    "cost": 4000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/smoke-ball.png",
+    "category": "held-items"
+  },
+  {
+    "id": 206,
+    "name": "Everstone",
+    "description": "An item to be held by a POKéMON.\nThe holding POKéMON is prevented\nfrom evolving.",
+    "cost": 3000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/everstone.png",
+    "category": "training"
+  },
+  {
+    "id": 207,
+    "name": "Focus Band",
+    "description": "An item to be held by a POKéMON.\nThe holding POKéMON may endure an\nattack, leaving just 1 HP.",
+    "cost": 4000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/focus-band.png",
+    "category": "held-items"
+  },
+  {
+    "id": 208,
+    "name": "Lucky Egg",
+    "description": "An item to be held by a POKéMON.\nAn egg filled with happiness that\nearns extra EXP. points in battle.",
+    "cost": 10000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lucky-egg.png",
+    "category": "training"
+  },
+  {
+    "id": 209,
+    "name": "Scope Lens",
+    "description": "An item to be held by a POKéMON.\nA lens that boosts the critical-hit\nratio of the holding POKéMON.",
+    "cost": 4000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/scope-lens.png",
+    "category": "held-items"
+  },
+  {
+    "id": 210,
+    "name": "Metal Coat",
+    "description": "An item to be held by a POKéMON.\nA special metallic film that boosts\nthe power of STEEL-type moves.",
+    "cost": 2000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/metal-coat.png",
+    "category": "type-enhancement"
+  },
+  {
+    "id": 211,
+    "name": "Leftovers",
+    "description": "An item to be held by a POKéMON.\nThe holding POKéMON gradually\nregains HP during battle.",
+    "cost": 4000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/leftovers.png",
+    "category": "held-items"
+  },
+  {
+    "id": 212,
+    "name": "Dragon Scale",
+    "description": "A thick and tough scale.\nA DRAGON-type POKéMON may be\nholding it.",
+    "cost": 2000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dragon-scale.png",
+    "category": "evolution"
+  },
+  {
+    "id": 213,
+    "name": "Light Ball",
+    "description": "An orb to be held by a PIKACHU\nthat raises the SP. ATK stat.\nTouching it may cause a shock.",
+    "cost": 1000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/light-ball.png",
+    "category": "species-specific"
+  },
+  {
+    "id": 214,
+    "name": "Soft Sand",
+    "description": "An item to be held by a POKéMON.\nA loose, silky sand that boosts the\npower of GROUND-type moves.",
+    "cost": 1000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/soft-sand.png",
+    "category": "type-enhancement"
+  },
+  {
+    "id": 215,
+    "name": "Hard Stone",
+    "description": "An item to be held by a POKéMON.\nAn unbreakable stone that boosts\nthe power of ROCK-type moves.",
+    "cost": 1000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hard-stone.png",
+    "category": "type-enhancement"
+  },
+  {
+    "id": 216,
+    "name": "Miracle Seed",
+    "description": "An item to be held by a POKéMON.\nA seed imbued with life that boosts\nthe power of GRASS-type moves.",
+    "cost": 1000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/miracle-seed.png",
+    "category": "type-enhancement"
+  },
+  {
+    "id": 217,
+    "name": "Black Glasses",
+    "description": "An item to be held by a POKéMON.\nA shady-looking pair of glasses\nthat boosts DARK-type moves.",
+    "cost": 1000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/black-glasses.png",
+    "category": "type-enhancement"
+  },
+  {
+    "id": 218,
+    "name": "Black Belt",
+    "description": "An item to be held by a POKéMON.\nA belt that boosts determination\nand FIGHTING-type moves.",
+    "cost": 1000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/black-belt.png",
+    "category": "type-enhancement"
+  },
+  {
+    "id": 219,
+    "name": "Magnet",
+    "description": "An item to be held by a POKéMON.\nA powerful magnet that boosts the\npower of ELECTRIC-type moves.",
+    "cost": 1000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/magnet.png",
+    "category": "type-enhancement"
+  },
+  {
+    "id": 220,
+    "name": "Mystic Water",
+    "description": "An item to be held by a POKéMON.\nA teardrop-shaped gem that boosts\nthe power of WATER-type moves.",
+    "cost": 1000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mystic-water.png",
+    "category": "type-enhancement"
+  },
+  {
+    "id": 221,
+    "name": "Sharp Beak",
+    "description": "An item to be held by a POKéMON.\nA long, sharp beak that boosts the\npower of FLYING-type moves.",
+    "cost": 1000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/sharp-beak.png",
+    "category": "type-enhancement"
+  },
+  {
+    "id": 222,
+    "name": "Poison Barb",
+    "description": "An item to be held by a POKéMON.\nA small, poisonous barb that boosts\nthe power of POISON-type moves.",
+    "cost": 1000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poison-barb.png",
+    "category": "type-enhancement"
+  },
+  {
+    "id": 223,
+    "name": "Never-Melt Ice",
+    "description": "An item to be held by a POKéMON.\nA piece of ice that repels heat\nand boosts ICE-type moves.",
+    "cost": 1000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/never-melt-ice.png",
+    "category": "type-enhancement"
+  },
+  {
+    "id": 224,
+    "name": "Spell Tag",
+    "description": "An item to be held by a POKéMON.\nA sinister, eerie tag that boosts\nGHOST-type moves.",
+    "cost": 1000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/spell-tag.png",
+    "category": "type-enhancement"
+  },
+  {
+    "id": 225,
+    "name": "Twisted Spoon",
+    "description": "An item to be held by a POKéMON.\nA spoon imbued with telekinetic\npower boosts PSYCHIC-type moves.",
+    "cost": 1000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/twisted-spoon.png",
+    "category": "type-enhancement"
+  },
+  {
+    "id": 226,
+    "name": "Charcoal",
+    "description": "An item to be held by a POKéMON.\nA combustible fuel that boosts the\npower of FIRE-type moves.",
+    "cost": 1000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/charcoal.png",
+    "category": "type-enhancement"
+  },
+  {
+    "id": 227,
+    "name": "Dragon Fang",
+    "description": "An item to be held by a POKéMON.\nA hard and sharp fang that boosts\nthe power of DRAGON-type moves.",
+    "cost": 1000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dragon-fang.png",
+    "category": "type-enhancement"
+  },
+  {
+    "id": 228,
+    "name": "Silk Scarf",
+    "description": "An item to be held by a POKéMON.\nA sumptuous scarf that boosts the\npower of NORMAL-type moves.",
+    "cost": 1000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/silk-scarf.png",
+    "category": "type-enhancement"
+  },
+  {
+    "id": 229,
+    "name": "Upgrade",
+    "description": "A transparent device filled with all\nsorts of data.\nIt is made by SILPH CO.",
+    "cost": 2000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/up-grade.png",
+    "category": "evolution"
+  },
+  {
+    "id": 230,
+    "name": "Shell Bell",
+    "description": "An item to be held by a POKéMON.\nThe holding POKéMON regains some\nHP upon striking the foe.",
+    "cost": 4000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/shell-bell.png",
+    "category": "held-items"
+  },
+  {
+    "id": 231,
+    "name": "Sea Incense",
+    "description": "An item to be held by a POKéMON.\nIt slightly boosts the power of\nWATER-type moves.",
+    "cost": 2000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/sea-incense.png",
+    "category": "type-enhancement"
+  },
+  {
+    "id": 232,
+    "name": "Lax Incense",
+    "description": "An item to be held by a POKéMON.\nIts tricky aroma slightly reduces\nthe foe’s accuracy.",
+    "cost": 5000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lax-incense.png",
+    "category": "held-items"
+  },
+  {
+    "id": 233,
+    "name": "Lucky Punch",
+    "description": "A glove to be held by a CHANSEY.\nIt raises CHANSEY’s critical-hit\nratio.",
+    "cost": 1000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lucky-punch.png",
+    "category": "species-specific"
+  },
+  {
+    "id": 234,
+    "name": "Metal Powder",
+    "description": "A fine, hard powder to be held by\na DITTO.\nIt raises DITTO’s DEFENSE stat.",
+    "cost": 1000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/metal-powder.png",
+    "category": "species-specific"
+  },
+  {
+    "id": 235,
+    "name": "Thick Club",
+    "description": "A hard bone of some sort to be\nheld by a CUBONE or MAROWAK.\nIt raises the ATTACK stat.",
+    "cost": 1000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/thick-club.png",
+    "category": "species-specific"
+  },
+  {
+    "id": 236,
+    "name": "Leek",
+    "description": "A stick of leek to be held by a\nFARFETCH’D. It raises FARFETCH’D’s\ncritical-hit ratio.",
+    "cost": 1000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/stick.png",
+    "category": "species-specific"
+  },
+  {
+    "id": 237,
+    "name": "Red Scarf",
+    "description": "An item to be held by a POKéMON.\nIt boosts the holding POKéMON’s\nCOOL condition in CONTESTS.",
+    "cost": 100,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/red-scarf.png",
+    "category": "scarves"
+  },
+  {
+    "id": 238,
+    "name": "Blue Scarf",
+    "description": "An item to be held by a POKéMON.\nIt boosts the holding POKéMON’s\nBEAUTY condition in CONTESTS.",
+    "cost": 100,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/blue-scarf.png",
+    "category": "scarves"
+  },
+  {
+    "id": 239,
+    "name": "Pink Scarf",
+    "description": "An item to be held by a POKéMON.\nIt boosts the holding POKéMON’s\nCUTE condition in CONTESTS.",
+    "cost": 100,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pink-scarf.png",
+    "category": "scarves"
+  },
+  {
+    "id": 240,
+    "name": "Green Scarf",
+    "description": "An item to be held by a POKéMON.\nIt boosts the holding POKéMON’s\nSMART condition in CONTESTS.",
+    "cost": 100,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/green-scarf.png",
+    "category": "scarves"
+  },
+  {
+    "id": 241,
+    "name": "Yellow Scarf",
+    "description": "An item to be held by a POKéMON.\nIt boosts the holding POKéMON’s\nTOUGH condition in CONTESTS.",
+    "cost": 100,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/yellow-scarf.png",
+    "category": "scarves"
+  },
+  {
+    "id": 305,
+    "name": "TM01",
+    "description": "An attack that is\nexecuted last.\nThe user flinches\nif hit beforehand.",
+    "cost": 40000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "category": "all-machines"
+  },
+  {
+    "id": 306,
+    "name": "TM02",
+    "description": "Sharp, huge claws\nhook and slash the\nfoe quickly and\nwith great power.",
+    "cost": 1000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "category": "all-machines"
+  },
+  {
+    "id": 307,
+    "name": "TM03",
+    "description": "An attack with a\npulsing blast of\nwater. It may also\nconfuse the foe.",
+    "cost": 50000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "category": "all-machines"
+  },
+  {
+    "id": 308,
+    "name": "TM04",
+    "description": "The user focuses\nits mind to raise\nthe SP. ATK and\nSP. DEF stats.",
+    "cost": 50000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "category": "all-machines"
+  },
+  {
+    "id": 309,
+    "name": "TM05",
+    "description": "The foe is made to\nswitch out with an\nally. In the wild,\nthe battle ends.",
+    "cost": 50000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "category": "all-machines"
+  },
+  {
+    "id": 310,
+    "name": "TM06",
+    "description": "A move that badly\npoisons the foe.\nIts poison damage\nworsens every turn.",
+    "cost": 1000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "category": "all-machines"
+  },
+  {
+    "id": 311,
+    "name": "TM07",
+    "description": "A hailstorm lasting\nfive turns damages\nall POKéMON except\nthe ICE-type.",
+    "cost": 1000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "category": "all-machines"
+  },
+  {
+    "id": 312,
+    "name": "TM08",
+    "description": "The user bulks up\nits body to boost\nboth its ATTACK and\nDEFENSE stats.",
+    "cost": 50000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "category": "all-machines"
+  },
+  {
+    "id": 313,
+    "name": "TM09",
+    "description": "The user shoots\nseeds at the foe.\nTwo to five seeds\nare shot at once.",
+    "cost": 50000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "category": "all-machines"
+  },
+  {
+    "id": 314,
+    "name": "TM10",
+    "description": "An attack that\nvaries in type and\nintensity depending\non the user.",
+    "cost": 1000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "category": "all-machines"
+  },
+  {
+    "id": 315,
+    "name": "TM11",
+    "description": "The sun blazes for\nfive turns, powering\nup FIRE-type\nmoves.",
+    "cost": 1000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "category": "all-machines"
+  },
+  {
+    "id": 316,
+    "name": "TM12",
+    "description": "The foe is taunted\ninto a rage that\nallows it to use\nonly attack moves.",
+    "cost": 50000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "category": "all-machines"
+  },
+  {
+    "id": 317,
+    "name": "TM13",
+    "description": "The foe is struck\nwith an icy beam.\nIt may freeze the\nfoe solid.",
+    "cost": 10000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "category": "all-machines"
+  },
+  {
+    "id": 318,
+    "name": "TM14",
+    "description": "The foe is blasted\nwith a blizzard.\nIt may freeze the\nfoe solid.",
+    "cost": 1000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "category": "all-machines"
+  },
+  {
+    "id": 319,
+    "name": "TM15",
+    "description": "A severely damaging\nattack that makes\nthe user rest on\nthe next turn.",
+    "cost": 1000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "category": "all-machines"
+  },
+  {
+    "id": 320,
+    "name": "TM16",
+    "description": "A wall of light\ncuts damage from\nSP. ATK attacks\nfor five turns.",
+    "cost": 1000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "category": "all-machines"
+  },
+  {
+    "id": 321,
+    "name": "TM17",
+    "description": "Enables the user to\nevade all attacks.\nIt may fail if used\nin succession.",
+    "cost": 10000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "category": "all-machines"
+  },
+  {
+    "id": 322,
+    "name": "TM18",
+    "description": "A heavy rain falls\nfor five turns,\npowering up WATER-\ntype moves.",
+    "cost": 10000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "category": "all-machines"
+  },
+  {
+    "id": 323,
+    "name": "TM19",
+    "description": "A harsh attack that\nabsorbs half the\ndamage it inflicted\nto restore HP.",
+    "cost": 10000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "category": "all-machines"
+  },
+  {
+    "id": 324,
+    "name": "TM20",
+    "description": "It protects the\nuser’s party from\nall status problems\nfor five turns.",
+    "cost": 100000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "category": "all-machines"
+  },
+  {
+    "id": 325,
+    "name": "TM21",
+    "description": "This attack move\ngrows more powerful\nthe less the user\nlikes its TRAINER.",
+    "cost": 1000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "category": "all-machines"
+  },
+  {
+    "id": 326,
+    "name": "TM22",
+    "description": "A 2-turn move that\nblasts the foe with\nabsorbed energy in\nthe 2nd turn.",
+    "cost": 1000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "category": "all-machines"
+  },
+  {
+    "id": 327,
+    "name": "TM23",
+    "description": "An attack with a\nsteel-hard tail.\nIt may lower the\nfoe’s DEFENSE stat.",
+    "cost": 10000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "category": "all-machines"
+  },
+  {
+    "id": 328,
+    "name": "TM24",
+    "description": "A strong electrical\nattack that may\nalso leave the foe\nparalyzed.",
+    "cost": 1000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "category": "all-machines"
+  },
+  {
+    "id": 329,
+    "name": "TM25",
+    "description": "A brutal lightning\nattack that may\nalso leave the foe\nparalyzed.",
+    "cost": 10000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "category": "all-machines"
+  },
+  {
+    "id": 330,
+    "name": "TM26",
+    "description": "An earthquake that\nstrikes all POKéMON\nin battle excluding\nthe user.",
+    "cost": 1000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "category": "all-machines"
+  },
+  {
+    "id": 331,
+    "name": "TM27",
+    "description": "This attack move\ngrows more powerful\nthe more the user\nlikes its TRAINER.",
+    "cost": 1000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "category": "all-machines"
+  },
+  {
+    "id": 332,
+    "name": "TM28",
+    "description": "An attack that hits\non the 2nd turn.\nCan also be used\nto exit dungeons.",
+    "cost": 100000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "category": "all-machines"
+  },
+  {
+    "id": 333,
+    "name": "TM29",
+    "description": "A strong telekinetic\nattack. It may also\nlower the foe’s\nSP. DEF stat.",
+    "cost": 1000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "category": "all-machines"
+  },
+  {
+    "id": 334,
+    "name": "TM30",
+    "description": "A shadowy blob is\nhurled at the foe.\nMay also lower the\nfoe’s SP. DEF.",
+    "cost": 1000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "category": "all-machines"
+  },
+  {
+    "id": 335,
+    "name": "TM31",
+    "description": "An attack that also\nbreaks any barrier\nlike LIGHT SCREEN\nand REFLECT.",
+    "cost": 1000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "category": "all-machines"
+  },
+  {
+    "id": 336,
+    "name": "TM32",
+    "description": "The user creates\nillusory copies of\nitself to raise its\nevasiveness.",
+    "cost": 10000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "category": "all-machines"
+  },
+  {
+    "id": 337,
+    "name": "TM33",
+    "description": "A wall of light\ncuts damage from\nphysical attacks\nfor five turns.",
+    "cost": 10000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "category": "all-machines"
+  },
+  {
+    "id": 338,
+    "name": "TM34",
+    "description": "A rapid jolt of\nelectricity strikes\nthe foe. It can’t\nbe evaded.",
+    "cost": 10000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "category": "all-machines"
+  },
+  {
+    "id": 339,
+    "name": "TM35",
+    "description": "The foe is scorched\nwith intense flames.\nThe foe may suffer\na burn.",
+    "cost": 10000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "category": "all-machines"
+  },
+  {
+    "id": 340,
+    "name": "TM36",
+    "description": "Filthy sludge is\nhurled at the foe.\nIt may poison the\ntarget.",
+    "cost": 1000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "category": "all-machines"
+  },
+  {
+    "id": 341,
+    "name": "TM37",
+    "description": "A 5-turn sandstorm\nthat damages all\ntypes except ROCK,\nGROUND, and STEEL.",
+    "cost": 1000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "category": "all-machines"
+  },
+  {
+    "id": 342,
+    "name": "TM38",
+    "description": "The foe is hit with\nan intense flame.\nIt may leave the\ntarget with a burn.",
+    "cost": 1000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "category": "all-machines"
+  },
+  {
+    "id": 343,
+    "name": "TM39",
+    "description": "Boulders are hurled\nat the foe. It also\nlowers the foe’s\nSPEED if it hits.",
+    "cost": 1000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "category": "all-machines"
+  },
+  {
+    "id": 344,
+    "name": "TM40",
+    "description": "An extremely fast\nattack against one\ntarget. It can’t be\nevaded.",
+    "cost": 1000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "category": "all-machines"
+  },
+  {
+    "id": 345,
+    "name": "TM41",
+    "description": "It enrages the foe,\nmaking it incapable\nof using the same\nmove successively.",
+    "cost": 10000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "category": "all-machines"
+  },
+  {
+    "id": 346,
+    "name": "TM42",
+    "description": "An attack that is\nboosted if user is\nburned, poisoned,\nor paralyzed.",
+    "cost": 1000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "category": "all-machines"
+  },
+  {
+    "id": 347,
+    "name": "TM43",
+    "description": "An attack that may\nhave an additional\neffect that varies\nwith the terrain.",
+    "cost": 1000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "category": "all-machines"
+  },
+  {
+    "id": 348,
+    "name": "TM44",
+    "description": "The user sleeps for\ntwo turns to fully\nrestore HP and heal\nany status problem.",
+    "cost": 100000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "category": "all-machines"
+  },
+  {
+    "id": 349,
+    "name": "TM45",
+    "description": "If it is the other\ngender, the foe is\nmade infatuated and\nunlikely to attack.",
+    "cost": 1000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "category": "all-machines"
+  },
+  {
+    "id": 350,
+    "name": "TM46",
+    "description": "An attack that may\ntake the foe’s held\nitem if the user\nisn’t holding one.",
+    "cost": 30000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "category": "all-machines"
+  },
+  {
+    "id": 351,
+    "name": "TM47",
+    "description": "The foe is hit with\nwings of steel.\nIt may also raise\nthe user’s DEFENSE.",
+    "cost": 1000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "category": "all-machines"
+  },
+  {
+    "id": 352,
+    "name": "TM48",
+    "description": "The user employs\nits psychic power\nto swap abilities\nwith the foe.",
+    "cost": 1000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "category": "all-machines"
+  },
+  {
+    "id": 353,
+    "name": "TM49",
+    "description": "Steals the effects\nof the foe’s\nhealing or status-\nchanging move.",
+    "cost": 1000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "category": "all-machines"
+  },
+  {
+    "id": 354,
+    "name": "TM50",
+    "description": "An intense attack\nthat also sharply\nreduces the user’s\nSP. ATK stat.",
+    "cost": 10000,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "category": "all-machines"
+  },
+  {
+    "id": 515,
+    "name": "Orange Mail",
+    "description": "A piece of MAIL featuring a cute\nZIGZAGOON print.\nIt is to be held by a POKéMON.",
+    "cost": 50,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/orange-mail.png",
+    "category": "all-mail"
+  },
+  {
+    "id": 516,
+    "name": "Harbor Mail",
+    "description": "A piece of MAIL featuring a cute\nWINGULL print.\nIt is to be held by a POKéMON.",
+    "cost": 50,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/harbor-mail.png",
+    "category": "all-mail"
+  },
+  {
+    "id": 517,
+    "name": "Glitter Mail",
+    "description": "A piece of MAIL featuring a cute\nPIKACHU print.\nIt is to be held by a POKéMON.",
+    "cost": 50,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/glitter-mail.png",
+    "category": "all-mail"
+  },
+  {
+    "id": 518,
+    "name": "Mech Mail",
+    "description": "A piece of MAIL featuring a cute\nMAGNEMITE print.\nIt is to be held by a POKéMON.",
+    "cost": 50,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mech-mail.png",
+    "category": "all-mail"
+  },
+  {
+    "id": 519,
+    "name": "Wood Mail",
+    "description": "A piece of MAIL featuring a cute\nSLAKOTH print.\nIt is to be held by a POKéMON.",
+    "cost": 50,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/wood-mail.png",
+    "category": "all-mail"
+  },
+  {
+    "id": 520,
+    "name": "Wave Mail",
+    "description": "A piece of MAIL featuring a cute\nWAILMER print.\nIt is to be held by a POKéMON.",
+    "cost": 50,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/wave-mail.png",
+    "category": "all-mail"
+  },
+  {
+    "id": 521,
+    "name": "Bead Mail",
+    "description": "A piece of MAIL to be held by a\nPOKéMON. It will bear the print of\nthe POKéMON holding it.",
+    "cost": 50,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/bead-mail.png",
+    "category": "all-mail"
+  },
+  {
+    "id": 522,
+    "name": "Shadow Mail",
+    "description": "A piece of MAIL featuring a cute\nDUSKULL print.\nIt is to be held by a POKéMON.",
+    "cost": 50,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/shadow-mail.png",
+    "category": "all-mail"
+  },
+  {
+    "id": 523,
+    "name": "Tropic Mail",
+    "description": "A piece of MAIL featuring a cute\nBELLOSSOM print.\nIt is to be held by a POKéMON.",
+    "cost": 50,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tropic-mail.png",
+    "category": "all-mail"
+  },
+  {
+    "id": 524,
+    "name": "Dream Mail",
+    "description": "A piece of MAIL to be held by a\nPOKéMON. It will bear the print of\nthe POKéMON holding it.",
+    "cost": 50,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dream-mail.png",
+    "category": "all-mail"
+  },
+  {
+    "id": 525,
+    "name": "Fab Mail",
+    "description": "A piece of MAIL featuring a\ngorgeous, extravagant print.\nIt is to be held by a POKéMON.",
+    "cost": 50,
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/fab-mail.png",
+    "category": "all-mail"
+  }
+]
