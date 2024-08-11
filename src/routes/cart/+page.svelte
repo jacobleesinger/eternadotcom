@@ -22,7 +22,7 @@
 <main class="mt-4">
 	<h2 class="text-2xl">Your Cart</h2>
 
-	<section class="overflow-x-auto">
+	<section class="overflow-x-auto bg-base-100 mt-4 p-8">
 		<table class="table">
 			<thead>
 				<tr>
@@ -51,7 +51,8 @@
 				</tr>
 			</tfoot>
 		</table>
-
-		<button class="btn btn-primary" onclick={checkout}>Check Out</button>
+		<section class="flex justify-end mt-4">
+			<button class="btn btn-primary" onclick={checkout}>Check Out</button>
+		</section>
 	</section>
 </main>
